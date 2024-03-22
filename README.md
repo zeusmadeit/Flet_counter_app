@@ -1,4 +1,4 @@
-![image](https://github.com/ZeusMadeIt/Flet_counter_app/assets/58306978/737c424c-e8d2-4d86-b71b-f000db362032)
+![image](./assets/flet-home.png)
 
 # Flet_counter_app
 A Flet counter application built using python. Flet enables developers to easily build realtime web, mobile and desktop apps in Python, No frontend experience required.
@@ -24,9 +24,10 @@ python3 app.py
 The app will be started in a native OS window - what a nice alternative to Electron!
 
 ## Screen Shots
-<img width="204" alt="Screenshot 2024-03-22 100519" src="https://github.com/ZeusMadeIt/Flet_counter_app/assets/58306978/75969e25-1e2f-4926-81fb-3e189f65f4e8">
+![Screenshot 2024-03-22 100519](./assets/Screenshot%202024-03-22%20100519.png)
 
-<img width="596" alt="Screenshot 2024-03-22 100646" src="https://github.com/ZeusMadeIt/Flet_counter_app/assets/58306978/215f937a-5a59-4084-9fed-d80f1eaa98c5">
+
+![Screenshot 2024-03-22 100646](./assets/Screenshot%202024-03-22%20100646.png)
 
 Now, if you want to run the app as a web app, just replace the last line in the app.py file with:
 ```
